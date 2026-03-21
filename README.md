@@ -94,12 +94,9 @@ while True:
 
 ---
 
-## 🐍 Contribution Snake
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/surbhi2803/surbhi2803/output/github-contribution-grid-snake.svg" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=00FF00&center=true&vCenter=true&width=600&lines=Initializing+brain...;Loading+DSA+skills...;Building+cool+projects...;Becoming+dangerous+%F0%9F%94%A5" />
 </p>
-
 ---
 
 ## 🎯 Current Focus
