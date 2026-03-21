@@ -86,7 +86,7 @@ while True:
 
 
 
-## hmmm
+## 🐍 Contribution Snake
 
 ![snake gif](https://raw.githubusercontent.com/arrrzushi/arrrzushi/output/github-contribution-grid-snake-dark.svg)
 
