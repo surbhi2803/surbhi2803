@@ -73,6 +73,18 @@ while True:
 
 ---
 
+### 🌦️ Weather App
+> Real-time weather with smart tips
+
+- 🌍 Search any city
+- ☀️ Weather-based suggestions
+- 📱 Responsive UI
+- ⚡ API powered
+
+🔗 https://github.com/surbhi2803
+
+---
+
 ### 💐 Sillage — Digital Perfume Creator
 > “If feelings had a fragrance”
 
