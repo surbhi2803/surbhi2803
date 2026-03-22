@@ -80,7 +80,7 @@ while True:
 - 🌫️ Animated particle-based experience
 - 🔗 Shareable interactive links
 
-🚀 sillage-git-main-surbhis-projects-fc27e7ca.vercel.app/
+🚀 https://sillage-git-main-surbhis-projects-fc27e7ca.vercel.app/
 
 ---
 
