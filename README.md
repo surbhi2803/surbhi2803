@@ -80,7 +80,7 @@ while True:
 - 🌫️ Animated particle-based experience
 - 🔗 Shareable interactive links
 
-🚀 https://digibouquet.vercel.app
+🚀 https://sillage-eowd-2ted4xd06-surbhis-projects-fc27e7ca.vercel.app/
 
 ---
 
