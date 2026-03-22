@@ -73,7 +73,7 @@ while True:
 
 ---
 
-### 🌦️ Weather App
+### 🌦️ Aether-The Weather App
 > Real-time weather with smart tips
 
 - 🌍 Search any city
@@ -81,7 +81,7 @@ while True:
 - 📱 Responsive UI
 - ⚡ API powered
 
-🔗 https://github.com/surbhi2803
+🔗 https://github.com/surbhi2803/Ather-Weather-App
 
 ---
 
