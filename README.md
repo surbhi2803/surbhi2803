@@ -85,7 +85,7 @@ while True:
 
 ---
 
-🎓 DropSense — AI Dropout Prediction System
+### 🎓 DropSense — AI Dropout Prediction System
 
 > Predict early. Intervene smartly.
 
@@ -98,19 +98,6 @@ while True:
 🔗 https://github.com/surbhi2803/DropSense
 
 ---
-
-### 💐 Sillage — Digital Perfume Creator
-> “If feelings had a fragrance”
-
-- 🎨 Create emotional "perfumes"
-- 🌫️ Animated particle-based experience
-- 🔗 Shareable interactive links
-
-🚀 https://github.com/surbhi2803/Sillage
-
----
-
-
 
 ## hehe
 
