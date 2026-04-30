@@ -85,6 +85,20 @@ while True:
 
 ---
 
+🎓 DropSense — AI Dropout Prediction System
+
+> Predict early. Intervene smartly.
+
+• 🤖 AI-based student risk prediction  
+• 📊 Explainable insights (why a student is at risk)  
+• 💡 Smart counselling recommendations  
+• 🧠 Machine Learning powered (Random Forest, etc.)  
+• 📈 Dashboard for students, mentors & admins  
+
+🔗 https://github.com/surbhi2803/DropSense
+
+---
+
 ### 💐 Sillage — Digital Perfume Creator
 > “If feelings had a fragrance”
 
